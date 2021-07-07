@@ -1,4 +1,4 @@
-# my_muslim_app
+# My Muslim App
 
 My Personal Project App
 
@@ -6,7 +6,7 @@ My Personal Project App
 
 This is my personal project. App that helps moslems to easily access Qur'an, get to know Qiblah direction from current location, get Sholah reminder, Save prayer reminder. This app built with Flutter.
 
-# Dependencies Used:
+## Dependencies Used:
 
 ```yaml
 # library for perebuilt animations
