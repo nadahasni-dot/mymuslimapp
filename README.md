@@ -2,35 +2,31 @@
 
 My Personal Project App
 
-## Getting Started
+## Description
 
 This is my personal project. App that helps moslems to easily access Qur'an, get to know Qiblah direction from current location, get Sholah reminder, Save prayer reminder. This app built with Flutter.
 
 # Dependencies Used:
 
-// library for perebuilt animations
+```yaml
+# library for perebuilt animations
 animations: ^2.0.0
 
-// to display svg
-
+# to display svg
 flutter_svg: ^0.22.0
 
-// for date format
-
+# for date format
 intl: ^0.17.0
 
-// for finding qibla function
-
+# for finding qibla function
 flutter_qiblah: ^2.0.1
 
-// for quran
-
+# for quran
 quran: ^1.0.3
 
-// for http request
-
+# for http request
 http: ^0.13.3
 
-// for audio stream
-
+# for audio stream
 audioplayers: ^0.19.0
+```
