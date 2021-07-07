@@ -30,3 +30,11 @@ http: ^0.13.3
 # for audio stream
 audioplayers: ^0.19.0
 ```
+
+## Assets:
+
+Some of the assets that i used are from freepik.com. They are free to use for personal purpose.
+
+## Design references:
+
+UI/UX Flowie: https://dribbble.com/shots/11320731-Muslim-Apps-UI-Design
