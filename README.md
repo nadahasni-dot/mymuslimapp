@@ -1,16 +1,36 @@
 # my_muslim_app
 
-A new Flutter project.
+My Personal Project App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my personal project. App that helps moslems to easily access Qur'an, get to know Qiblah direction from current location, get Sholah reminder, Save prayer reminder. This app built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+# Dependencies Used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+// library for perebuilt animations
+animations: ^2.0.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+// to display svg
+
+flutter_svg: ^0.22.0
+
+// for date format
+
+intl: ^0.17.0
+
+// for finding qibla function
+
+flutter_qiblah: ^2.0.1
+
+// for quran
+
+quran: ^1.0.3
+
+// for http request
+
+http: ^0.13.3
+
+// for audio stream
+
+audioplayers: ^0.19.0
